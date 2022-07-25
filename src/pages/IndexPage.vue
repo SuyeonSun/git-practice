@@ -1,6 +1,7 @@
 <template>
   <q-page class="flex flex-center">
-    <div>first commit</div>
+    <div>first commit of B-0</div>
+    <div>second commit of B-0</div>
   </q-page>
 </template>
 
