@@ -2,6 +2,7 @@
   <q-page class="flex flex-center">
     <div>first commit of B-1</div>
     <div>first commit of B-2</div>
+    <div>first commit of B-0 after pull B-1</div>
   </q-page>
 </template>
 
